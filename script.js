@@ -35,7 +35,7 @@ function toggleMusic() {
 
 document.addEventListener("DOMContentLoaded", () => {
     const prefix = "⠐ ";
-    const titleText = "swarm";
+    const titleText = "angel";
     let index = 0;
     let isDeleting = false;
 
@@ -61,7 +61,7 @@ typeWriter();
 
 document.addEventListener("DOMContentLoaded", function () {
 const elements = document.querySelectorAll('.typewriter');
-const texts = ["my life sucks"]
+const texts = ["Fucking loser"]
 const typingSpeed = 0;
 const pauseDuration = 100000000000;
 let currentIndex = 0;
@@ -107,5 +107,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const imgElement = document.getElementById('rpc');
     imgElement.src = imgSrc;
 });
+
 
 
