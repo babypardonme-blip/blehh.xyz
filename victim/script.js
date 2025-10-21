@@ -35,7 +35,7 @@ function toggleMusic() {
 
 document.addEventListener("DOMContentLoaded", () => {
     const prefix = "⠐ ";
-    const titleText = "hollow";
+    const titleText = "x,..,x";
     let index = 0;
     let isDeleting = false;
 
@@ -129,4 +129,5 @@ document.addEventListener("DOMContentLoaded", () => {
     card.style.transform = "rotateX(0deg) rotateY(0deg) scale(1)";
   });
 });
+
 
