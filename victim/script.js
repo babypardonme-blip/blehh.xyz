@@ -61,7 +61,7 @@ typeWriter();
 
 document.addEventListener("DOMContentLoaded", function () {
 const elements = document.querySelectorAll('.typewriter');
-const texts = ["blehh.xyz :P"]
+const texts = ["fuck"]
 const typingSpeed = 0;
 const pauseDuration = 100000000000;
 let currentIndex = 0;
@@ -129,3 +129,4 @@ document.addEventListener("DOMContentLoaded", () => {
     card.style.transform = "rotateX(0deg) rotateY(0deg) scale(1)";
   });
 });
+
